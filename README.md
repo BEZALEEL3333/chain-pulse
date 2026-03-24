@@ -14,7 +14,7 @@ No block explorer. No refreshing. No polling. Just the chain, live.
 
 ## Download
 
-Check the [releases](https://github.com/bezaleel3333/chain-pulse.git) page
+Check the [releases](https://github.com/bezaleel3333/chain-pulse/releases) page
 
 ## 🎮 Core Features
 
